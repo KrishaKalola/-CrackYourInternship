@@ -17,7 +17,7 @@
     - Reverse Pair
     - Max Value Of Equation
 
-##String:
+## String:
     - Valid Parentheses
     - Print all the duplicate characters in a string
     - Valid Palindrome II
@@ -25,5 +25,5 @@
     - Basic Calculator II
     - Valid Number
 
-##Mathematical
+## Mathematical
      - Add Binary
