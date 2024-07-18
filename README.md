@@ -16,6 +16,13 @@
     - Four Sum
     - Reverse Pair
     - Max Value Of Equation
+    - Maximum Points You Can Obtain from Cards
+    - Subarray Sum Equals K
+    - Spiral Matrix
+    - Word Search
+    - Merge Sorted Array
+    - Majority Element
+    - Jump Game
 
 ## String:
     - Valid Parentheses
