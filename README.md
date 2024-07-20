@@ -37,6 +37,13 @@
     - Integer To Roman
     - Basic Calculator II
     - Valid Number
+    - Longest Common Prefix
+    - Reverse Words in a String
+    - Generate Parentheses
+    - Integer to English Words
+    - Find the Index of the First Occurrence in a String
+    - Group Anagrams
+    - Simplify Path
 
 ## Mathematical
      - Add Binary
