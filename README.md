@@ -3,7 +3,6 @@
 ## Array:
     - Find the Duplicate Number
     - Sort Colors
-    - Remove Duplicates from Sorted Array
     - Set Matrix Zero
     - Move Zeroes
     - Best Time to Buy and Sell Stock
@@ -25,7 +24,6 @@
     - Jump Game
     - Remove Duplicates from Sorted Array
     - Permutations II
-    - Set Matrix Zeroes
     - Largest Rectangle in Histogram
     - Game of Life
     - Insert Delete GetRandom O(1) - Duplicates allowed
