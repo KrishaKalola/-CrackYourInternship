@@ -23,6 +23,14 @@
     - Merge Sorted Array
     - Majority Element
     - Jump Game
+    - Remove Duplicates from Sorted Array
+    - Permutations II
+    - Set Matrix Zeroes
+    - Largest Rectangle in Histogram
+    - Game of Life
+    - Insert Delete GetRandom O(1) - Duplicates allowed
+    - Chocolate Distribution Problem
+    
 
 ## String:
     - Valid Parentheses
