@@ -47,3 +47,9 @@
 
 ## Mathematical
      - Add Binary
+     - Minimum Moves to Equal Array Elements II
+     - Maximum Product of Three Numbers
+     - Excel Sheet Column Title
+     - Product of Array Except Self
+## Matrix
+    - Spiral Matrix
