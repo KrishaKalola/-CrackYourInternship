@@ -53,3 +53,7 @@
      - Product of Array Except Self
 ## Matrix
     - Spiral Matrix
+    - Maximal Rectangle
+    - Rotate Image
+## Shorting and Searching
+    - K-diff Pairs in an Array
