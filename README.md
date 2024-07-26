@@ -73,3 +73,5 @@
     - Linked List Cycle
     - Remove Duplicates from Sorted List II
     - Remove Nth Node From End of List
+    - Sort List
+    - Merge k Sorted Lists
