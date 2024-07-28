@@ -78,3 +78,9 @@
     - Convert Binary Number in a Linked List to Integer
     - Reorder List
     - Flatten a Multilevel Doubly Linked List
+
+## Stack and Queue
+    - Implement Queue using Stacks
+    - Backspace String Compare
+    - Implement Stack using Queues
+    - Next Greater Element I
