@@ -75,3 +75,6 @@
     - Remove Nth Node From End of List
     - Sort List
     - Merge k Sorted Lists
+    - Convert Binary Number in a Linked List to Integer
+    - Reorder List
+    - Flatten a Multilevel Doubly Linked List
