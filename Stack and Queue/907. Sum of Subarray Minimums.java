@@ -1,0 +1,43 @@
+class Solution {
+    public int sumSubarrayMins(int[] arr) {
+        int mod = (int) 1e9 + 7;
+
+
+        int nextSmaller[]=new int[arr.length];
+        int prevSmaller[]=new int[arr.length];
+
+        Stack<Integer> st=new Stack<>();
+
+        Arrays.fill(prevSmaller, -1);
+        Arrays.fill(nextSmaller, arr.length);
+
+        for(int i=arr.length-1;i>=0;i--){
+            while(!st.isEmpty() && arr[st.peek()]>arr[i] )
+            st.pop();
+
+            if(!st.isEmpty())
+            nextSmaller[i]=st.peek();
+
+            st.push(i);
+        }   
+        st.clear();
+        for(int i=0;i<arr.length;i++){
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i] )
+            st.pop();
+
+            if(!st.isEmpty())
+            prevSmaller[i]=st.peek();
+
+            st.push(i);
+        }
+        long sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            int leftDiff = i - prevSmaller[i];  // Number of elements to the left including i
+            int rightDiff = nextSmaller[i] - i; // Number of elements to the right including i
+            
+            sum = (sum + (long)arr[i] * leftDiff * rightDiff % mod) % mod;
+        }
+        
+        return (int) sum;
+    }
+}
