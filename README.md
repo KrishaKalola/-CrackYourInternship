@@ -84,3 +84,9 @@
     - Backspace String Compare
     - Implement Stack using Queues
     - Next Greater Element I
+    - Daily Temperatures
+    - Minimum Cost Tree From Leaf Values
+    - Online Stock Span
+    - Sum of Subarray Minimums
+    - Evaluate Reverse Polish Notation
+    - Remove All Adjacent Duplicates in String II
