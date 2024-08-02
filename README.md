@@ -95,3 +95,7 @@
 ## Tree
     - Diameter of Binary Tree
     - Invert Binary Tree
+    - Subtree of Another Tree
+    - Range Sum of BST
+    - Symmetric Tree
+    - Convert Sorted Array to Binary Search Tree
