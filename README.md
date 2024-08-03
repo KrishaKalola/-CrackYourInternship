@@ -99,3 +99,6 @@
     - Range Sum of BST
     - Symmetric Tree
     - Convert Sorted Array to Binary Search Tree
+    - Merge Two Binary Trees
+    - Maximum Depth of Binary Tree
+    - Binary Tree Paths
